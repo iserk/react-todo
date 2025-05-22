@@ -52,3 +52,11 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+## Installation
+
+```
+yarn add json-server concurrently --dev
+```
